@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Maenard 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maenard&color=blueviolet)
 
