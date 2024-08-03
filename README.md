@@ -17,7 +17,7 @@ I'm a passionate developer specializing in full-stack web development. I enjoy l
 
 ## 💼 Experience
 - **Infosoft Studio**: Web Developer
-- **Department of Science and Technology Region XI (DOST R-XI)**: Intern
+- **Department of Science and Technology Region XI (DOST XI)**: Intern
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maenard&show_icons=true&theme=radical)
