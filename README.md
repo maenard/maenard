@@ -10,12 +10,13 @@ I'm a passionate developer specializing in full-stack web development. I enjoy l
 - 📫 How to reach me: [maenardaboabo065@gmail.com](mailto:maenardaboabo065@gmail.com)
 
 ## 🛠️ Skills
-- **Languages**: PHP, Python, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Nuxt, Vue
+- **Languages**: PHP, Python, JavaScript, HTML, CSS, Dart
+- **Frameworks**: Laravel, Nuxt, Vue, Flutter, React
 - **Tools**: Docker, Laradock, Neovim, LazyVim
 - **Databases**: MySQL, PostgreSQL
 
 ## 💼 Experience
+- **University of Mindanao**: Faculty Member
 - **Infosoft Studio**: Web Developer
 - **Department of Science and Technology Region XI (DOST XI)**: Intern
 
