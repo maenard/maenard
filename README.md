@@ -24,6 +24,6 @@ I'm a passionate developer specializing in full-stack web development. I enjoy l
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maenard&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- **Email**: [maenardaboabo065@gmail.com](mailto:maenardaboabo23@gmail.com)
+- **Email**: [maenardaboabo23@gmail.com](mailto:maenardaboabo23@gmail.com)
 - **LinkedIn**: [Maenard B. Abo-Abo](https://linkedin.com/in/maenardaboabo)
 - **Facebook**: [Maenard B. Abo-Abo](https://facebook.com/maenard.aboabo)
